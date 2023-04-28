@@ -1,0 +1,2 @@
+a=open("newfile.txt",'r')
+print(a.read())
